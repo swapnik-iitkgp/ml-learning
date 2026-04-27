@@ -1,5 +1,5 @@
 """
-Simple Linear Regression Example
+Simple Linear Regression Example 1
 --------------------------------
 This script demonstrates a basic linear regression workflow using scikit-learn.
 """
